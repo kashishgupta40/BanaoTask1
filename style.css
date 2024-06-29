@@ -1,0 +1,93 @@
+/*body {
+    font-family: Arial, sans-serif;
+}
+
+.posts-filter {
+    margin-bottom: 20px;
+}
+
+.post {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.post.meetup {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.post.job {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.post h3 {
+    margin-top: 0;
+}
+
+.post span {
+    font-size: 14px;
+    color: #666;
+}
+
+.post button {
+    margin-top: 10px;
+}
+    */
+
+    :root {
+        --white-color:  #F8F9FA;
+        --lightwhite-color: #F1F3F5;
+        --lighttwhite-color:#E9ECEF;
+        --lighttttwhite-color: #DEE2E6;
+        --lightblack-color: #CED4DA;
+        --lighttblack-color: #ADB5BD;
+        --lightttblack-color: #868E96;
+        --moreBlack-color: #495057;
+        --moreeeBlack-color: #343A40;
+        --black-color: #212529;
+        --darkpurple-color: #495DC6;
+        --seaGreen-color: #3CADA3;
+        --green-color: #37C172;
+        --yellow-color: #F4CA64;
+        --purple-color: #7950F2;
+        --lightblue-color: #4C6FF5;
+        --blue-color: #339AF0;
+        --skyBlue-color: #22B8CF;
+        --lightparrot-color: #21C997;
+        --parrot-color: #50CF66;
+        --parrotgreen-color: #94D82C;
+        --darkyellow-color: #FCC418;
+        --orange-color: #FF922B;
+        --pink-color: #CB5DE8;
+        --red-color: #F06594;
+        --lightred-color: #FF6B6B;
+        --mediumred-color: #FF6B6B;
+    }
+
+    .header{
+        width: 1440px;
+height: 72px;
+gap: 0px;
+opacity: 0px;
+    }
+
+    .logo{
+        width: 162.58px;
+height: 24.01px;
+top: -0.01px;
+left: -0.01px;
+gap: 0px;
+opacity: 0px;
+    }
+    
+    .search-bar{
+          width: 360px;
+height: 42px;
+top: 16px;
+left: 540px;
+gap: 0px;
+opacity: 0px;
+    }
